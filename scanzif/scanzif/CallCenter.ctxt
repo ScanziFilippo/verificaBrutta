@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CallCenter
+comment1.params=
+comment1.target=CallCenter()
+comment2.params=n\ c\ b
+comment2.target=java.lang.String\ registraOperatore(java.lang.String,\ java.lang.String,\ java.time.LocalDate)
+comment3.params=m\ s\ d
+comment3.target=int\ registraValutazione(java.lang.String,\ int,\ java.time.LocalDate)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=matricola
+comment5.target=int\ valutazioneComplessiva(java.lang.String)
+comment5.text=public\ Feedback[]\ restituisciValutazioni(){\r\n\ \ \ \ \ \ \ \ int\ somma\ \=\ 0;\r\n\ \ \ \ \ \ \ \ operatori.forEach((key,\ value)\ ->\ somma\ +\=\ value.);\r\n}
+numComments=6

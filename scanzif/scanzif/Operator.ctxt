@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Operator
+comment1.params=name\ surname\ birthDate\ matricola
+comment1.target=Operator(java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMatricola()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
